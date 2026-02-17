@@ -22,6 +22,8 @@ No | git commands | description
 9 | git branch | can create their own copy, deploy, then it can be sent to branch
 10 | git ignore | The output files which are not related/ created for our reference, to ignore those kind of files we use git ignore command. 
 
+Click here for [assignment](https://github.com/Ashwinis-gif/Amazon-login/blob/main/README.md)
+
 ```
 print("Hello, World!")
 Hello all this is login page code
